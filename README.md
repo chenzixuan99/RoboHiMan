@@ -1,3 +1,5 @@
+> 📢 **Note:** This codebase supports the reproduction of **[DeCo](https://deco226.github.io/)** and is flexible enough to support users in conducting further extensions.
+
 <p align="center">
   <img src="asset/teaser.png" alt="RoboHiMan Teaser" width="85%">
 </p>
