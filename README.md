@@ -50,6 +50,15 @@ See [HIGH_LEVEL.md](HIGH_LEVEL.md) for detailed setup instructions.
 If you find this work useful, please consider citing:
 
 ```bibtex
+@article{chen2025deco,
+  title={DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation},
+  author={Chen, Zixuan and Yin, Junhui and Chen, Yangtao and Huo, Jing and Tian, Pinzhuo and Shi, Jieqi and Hou, Yiwen and Li, Yinchuan and Gao, Yang},
+  journal={arXiv preprint arXiv:2505.00527},
+  year={2025}
+}
+```
+
+```bibtex
 @article{chen2025robohiman,
   title={RoboHiMan: A hierarchical evaluation paradigm for compositional generalization in long-horizon manipulation},
   author={Chen, Yangtao and Chen, Zixuan and Chan, Nga Teng and Chen, Junting and Yin, Junhui and Shi, Jieqi and Gao, Yang and Li, Yong-Lu and Huo, Jing},
